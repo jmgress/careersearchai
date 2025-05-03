@@ -1,105 +1,134 @@
 ---
 marp: true
-theme: custom-default
-footer: 'https://example.com'
+theme: default
+paginate: true
 ---
 
-# 1. Sample Presentation
-![bg right](https://picsum.photos/800/600)
-
+# 🎯 Landing Your Next Role  (Initial Draft)
 ---
 
-<!-- Speaker Notes -->
-## 2. Speaker nots and Lists
+## With the Help of Generative AI
 
-- Item 1
-- Item 2
-- Item 3
-<!-- Can have multiple on a slide -->
+> “It’s no longer about having *a* resume. It’s about having *the right* resume—for *this* company, *this* role, and *this* person.”
 
 ---
 
-## 3. Speaker notes and images
-<!-- Can also do a multiline
-comment that will show in notes -->
+## 🌍 The New Landscape
 
-![Image](https://picsum.photos/800/600)
-
----
-
-## 4. Centered images
-
-You can center images
-
-![center](https://picsum.photos/800/600)
+- Personalization is expected—Netflix, Spotify, Amazon…  
+- So why not your career search?
+- Generative AI isn’t the future of job hunting.  
+It’s the *present* opportunity.
 
 ---
 
-## 5. Slide 4
+# 🧾 I. The Myth of  
+## The One-Size-Fits-All Resume
 
-> This is a quote.
-
----
-
-## 6. Tables
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Item 1   | Item 2   |
-| Item 3   | Item 4   |
+- Spraying the same resume everywhere doesn't work.
+- ATS and AI filters scan for *exact* matches.
+- You must tailor each application to the role.
 
 ---
 
-![bg opacity](https://picsum.photos/800/600?image=53)
-## 7. Columns
+## ✨ How GenAI Helps
 
-<div class="columns">
-<div>
-
-## Left
-
-- 1
-- 2
-
-</div>
-<div>
-
-## Right
-
-- 3
-- 4
-
-</div>
-</div>
+- Matches your resume to the job description.
+- Rewrites experiences using the employer’s language.
+- Highlights the most relevant skills and projects.
 
 ---
 
-## 8. Icons
+# 🔍 II. The Disconnect
 
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
+### HR Filters vs. Hiring Manager Expectations
 
----
-
-# 9. <!--fit--> Large Text
+- HR may not understand the technical role.
+- Hiring managers scan 100+ resumes for key skills.
+- Transferable skills often go unrecognized.
 
 ---
 
-<!-- Needed for mermaid, can be anywhere in file except frontmatter -->
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
+## ✨ How GenAI Helps
 
-# 10. Mermaid
+- Translates your experience into job-relevant terms.
+- Bridges the gap between what you’ve done  
+and what they’re asking for.
+- Reframes adjacent skills in familiar language.
 
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
+---
+
+# 🏢 III. Get Noticed
+
+### Personalize for the Company, Role, and Interviewer
+
+- Mention the company’s goals or recent news.
+- Speak to their mission and culture.
+- Show that this role wasn’t just “next on your list.”
+
+---
+
+## ✨ How GenAI Helps
+
+- Summarizes company values and updates.
+- Drafts personal intros or messages.
+- Aligns your story to their priorities.
+
+---
+
+# 🎤 IV. Interview Readiness
+
+### Thinking ≠ Speaking
+
+- Interviews are performance-based.
+- Clarity, tone, and delivery matter just as much as content.
+- Practice makes polish.
+
+---
+
+## ✨ How GenAI Helps
+
+- Simulates interviews using voice.
+- Gives feedback on your responses and tone.
+- Adapts to behavioral, technical, and situational styles.
+
+---
+
+# 🤝 V. Networking Wins Jobs
+
+- 70–80% of roles are landed through networking.
+- Real connections > cold applications.
+- Meetups, conferences, and conversations matter.
+
+---
+
+## ✨ How GenAI Helps
+
+- Finds relevant local meetups and virtual events.
+- Drafts outreach messages and follow-ups.
+- Helps you stay polished and memorable.
+
+---
+
+# 🛠 VI. Bonus Uses of GenAI
+
+- Drafts LinkedIn posts to boost your visibility.
+- Recommends job titles and paths based on your skills.
+- Creates networking and thank-you messages.
+
+---
+
+# 💡 Closing Thought
+
+> “Generative AI doesn’t replace *you*—it helps present the best *version* of you.”
+
+It’s not about removing the human touch.  
+It’s about enhancing it—with clarity, consistency, and confidence.
+
+---
+
+# 🙌 Thank You!
+
+**Let’s talk about how you can apply this today.**  
+What’s one area in your job search where AI could help *right now*?
+
